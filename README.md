@@ -1,3 +1,8 @@
+**TL;DR**
+
+Register your talk for La Conf Paris [here](https://github.com/la-conf/2013-eclair-sessions/issues/new) and be part of the main event - not an afterthought.
+
+
 # Lightning talks suck - viva Eclair Sessions!
 
 Even though [La Conf](http://2013.la-conf.org) is not a conference with a Call For Papers, many "rogue" rubyists have submitted talk proposals anyway, eager to stand up on stage and be part of this unusual and exciting event.
